@@ -1,6 +1,6 @@
 # README #
 
-SHOPCART_FRONTEND is part of is part of a three-tier system called ShopCart. It's a web application implementing a ShopCart with an **Optimistich Locking** strategy.   
+SHOPCART_BACKEND is part of is part of a three-tier system called ShopCart. It's a web application implementing a ShopCart with an **Optimistich Locking** strategy.   
 
 The system provides user authentication via Json Web Token \([JWT](https://jwt.io/)\).  
 
